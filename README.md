@@ -1,8 +1,28 @@
-# React + Vite
+# Project Submossion for Coalition_technology
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# This project is done by Mrutyunjay Panda
 
-Currently, two official plugins are available:
+## Viewing the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To view the project output, you have a couple of options:
+
+### Option 1: Local Setup (For those who want to set it Locally)
+
+If you want to run the project locally on your computer, follow these steps:
+
+1. **Unzip the file**
+
+Open your terminal in VS code editor and then run these commands
+go to the "/Ui-mountain" dir by : `cd Ui-mountain`
+
+Then, install project dependencies using npm: `npm install`
+
+Once the dependencies are installed, start the Vite development server: `npm run dev`
+
+click the link in the terminal then you can see the project in your browser.
+
+### Option 1: Online Deployment
+
+You can access the project directly through a web browser using the following link: [Project Demo](https://your-username.github.io/your-repo-name)
+
+Replace `your-username` with your GitHub username and `your-repo-name` with the name of your GitHub repository. This is the recommended method if the project is already deployed on GitHub Pages.
