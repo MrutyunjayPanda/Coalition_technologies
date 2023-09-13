@@ -23,6 +23,6 @@ click the link in the terminal then you can see the project in your browser.
 
 ### Option 1: Online Deployment
 
-You can access the project directly through a web browser using the following link: [Project Demo](https://your-username.github.io/your-repo-name)
+You can access the project directly through a web browser using the following link: [Project Demo](https://MrutyunjayPanda.github.io/coalition_technologies)
 
 Replace `your-username` with your GitHub username and `your-repo-name` with the name of your GitHub repository. This is the recommended method if the project is already deployed on GitHub Pages.
